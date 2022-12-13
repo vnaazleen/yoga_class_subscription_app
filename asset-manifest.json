@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yoga_class_subscription_app/static/css/main.1a87f12d.css",
+    "main.js": "/yoga_class_subscription_app/static/js/main.6a85cfdf.js",
+    "static/js/787.cda612ba.chunk.js": "/yoga_class_subscription_app/static/js/787.cda612ba.chunk.js",
+    "static/media/success.png": "/yoga_class_subscription_app/static/media/success.ba47d16f07403ba35b26.png",
+    "index.html": "/yoga_class_subscription_app/index.html",
+    "main.1a87f12d.css.map": "/yoga_class_subscription_app/static/css/main.1a87f12d.css.map",
+    "main.6a85cfdf.js.map": "/yoga_class_subscription_app/static/js/main.6a85cfdf.js.map",
+    "787.cda612ba.chunk.js.map": "/yoga_class_subscription_app/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a87f12d.css",
+    "static/js/main.6a85cfdf.js"
+  ]
+}
