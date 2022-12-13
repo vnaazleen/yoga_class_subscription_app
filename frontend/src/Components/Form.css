@@ -1,0 +1,21 @@
+.Form {
+    margin-top: 100px;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 3%;
+    border: 3px solid purple;
+    border-radius: 20px;
+}
+
+.hline{
+    border: 1px solid purple;
+}
+
+.heading {
+    color: purple;
+}
+
+.Submit {
+   text-align: center;
+   padding-top: 20px;
+}
