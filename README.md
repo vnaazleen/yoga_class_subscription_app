@@ -1,5 +1,7 @@
 # Yoga Class Subscription App
 
+![](https://github.com/vnaazleen/yoga_class_subscription_app/blob/main/YOGA%20CLASS%20SUBSCRIPTION%20APP.png)
+
 Building an admission form for the Yoga Classes which happen every month.
 Requirements for the admission form are:
 - Only people within the age limit of 18-65 can enroll for the monthly classes and they will
